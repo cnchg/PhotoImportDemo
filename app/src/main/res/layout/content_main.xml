@@ -19,5 +19,6 @@
         app:srcCompat="@mipmap/ic_launcher"
         android:id="@+id/imageView"
         android:layout_centerVertical="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:contentDescription="@string/imageDesciption" />
 </RelativeLayout>
